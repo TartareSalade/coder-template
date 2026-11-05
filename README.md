@@ -16,12 +16,12 @@ The goal is to provide **reproducible, isolated, and ready-to-use development en
 
 ## Features
 
-- **Self-hosted** — Run workspaces on my own Docker infrastructure.
-- **Reproducible** — Environments defined using Terraform and Dockerfiles.
-- **Persistent** — Docker volumes preserve workspace files across restarts.
-- **Remote development** — Access personal projects from any computer through Coder.
-- **No local setup** — Keep development tools and dependencies off the work computer.
-- **Extensible** — Easily customize templates or add new development stacks.
+- **Self-hosted** : Run workspaces on my own Docker infrastructure.
+- **Reproducible** : Environments defined using Terraform and Dockerfiles.
+- **Persistent** : Docker volumes preserve workspace files across restarts.
+- **Remote development** : Access personal projects from any computer through Coder.
+- **No local setup** : Keep development tools and dependencies off the work computer.
+- **Extensible** : Easily customize templates or add new development stacks.
 
 ## Project Structure
 
